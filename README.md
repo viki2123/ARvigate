@@ -31,8 +31,7 @@
 3. Hold the phone camera facing the corridors.
 4. Follow the AR path that appeared on the phone screen to reach the destination.
 
-## Contribution
-I would like to extend my utmost gratitude to my teammates **@Divyahegde018, @Pranathi-00-V and @pooja-design**. Thank you for your hard work this past weeks. Your dedication helped us reach our goals. I deeply appreciate every member of this team for showing relentless effort for this project.
+
 
 https://user-images.githubusercontent.com/64164353/174399288-b6346bd0-df06-42c2-ba8c-299505501201.mp4
 
